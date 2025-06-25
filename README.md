@@ -20,7 +20,7 @@ Composable, powerful, and ready for production.
 
 ## 📌 What is it?
 
-17711 Smart Processors` is a collection of reusable, pluggable Python processors designed to power the [17711 Smart Services](https://smart.17711.eu) engine.
+`17711 Smart Processors` is a collection of reusable, pluggable Python processors designed to power the [17711 Smart Services](https://smart.17711.eu) engine.
 
 Each processor can be used standalone or inside pipelines:
 - Pure functions with typed input/output
