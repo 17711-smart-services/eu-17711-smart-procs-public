@@ -5,15 +5,15 @@ Composable, powerful, and ready for production.
 
 ## 📚 Table of Contents
 
-- [📌 What is it?](#what-is-it)  
-  - [🎨 For Content Creators](#for-content-creators)  
-  - [🧰 For Businesses & Devs](#for-businesses--devs)  
-- [⚙️ Structure](#structure)  
-- [💡 Example Use Cases](#example-use-cases)  
-- [🤝 Contributing](#contributing)  
-- [📢 Credits](#credits) 
-- [☕ Donate / Sponsoring](#donate--sponsoring)
-- [📄 License](#license)  
+- 📌 [What is it?](#what-is-it)  
+  - 🎨 [For Content Creators](#for-content-creators)  
+  - 🧰 [For Businesses & Devs](#for-businesses--devs)  
+- ⚙️ [Structure](#structure)  
+- 💡 [Example Use Cases](#example-use-cases)  
+- 🤝 [Contributing](#contributing)  
+- 📢 [Credits](#credits) 
+- ☕ [Donate / Sponsoring](#donate--sponsoring)
+- 📄 [License](#license)  
 
 
 ---
